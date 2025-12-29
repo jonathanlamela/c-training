@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-o",
+      "main",
+      "main.c"
+    ],
+    "directory": "/Users/jonathanlamela/Desktop/personal-projects/c-training/demo-1",
+    "file": "/Users/jonathanlamela/Desktop/personal-projects/c-training/demo-1/main.c",
+    "output": "/Users/jonathanlamela/Desktop/personal-projects/c-training/demo-1/main"
+  }
+]
